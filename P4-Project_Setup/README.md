@@ -5,5 +5,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 [Project Setup Assignment](https://education.launchcode.org/liftoff/assignments/project-setup/)
 
 ### Project Repository
-[Full Project Repository](https://github.com/sudokarst/foedsel)
+[Full Project Repository](https://github.com/sudokarst/foedsel)<br />
 [Hello, World!](https://github.com/sudokarst/foedsel/tree/flask00)
